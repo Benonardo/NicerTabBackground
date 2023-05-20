@@ -1,9 +1,14 @@
-# Fabric Example Mod
+# NicerTabBackground
 
-## Setup
+Minecraft mod that replaces the black bar in the create world screen with a dark version of the background image
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## What this mod does
 
-## License
+It replaces the entirely black tab background with a semi-transparent black color that allows the background image to still be visible.  
+It will also work with other mods utilising the tab navigation widget.  
+![before](https://raw.githubusercontent.com/Benonardo/NicerTabBackground/1.19/images/before.png)
+![after](https://raw.githubusercontent.com/Benonardo/NicerTabBackground/1.19/images/after.png)
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Dependencies
+
+None! Like most of my mods, it works out of the box.

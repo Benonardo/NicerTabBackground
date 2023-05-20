@@ -10,7 +10,8 @@ public class TabNavigationWidgetMixin {
 
     @ModifyConstant(method = "render", constant = @Constant(intValue = -16777216))
     private int modifyTabBackgroundColor(int constant) {
-        return 0x99000000;
+        //return 0x99000000;
+        return constant;
     }
 
 }

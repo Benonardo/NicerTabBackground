@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "NicerTabBackground",
-  "description": "Minecraft mod that replaces the black bar in the create world screen with a dark version of the background image ",
+  "description": "Minecraft mod that replaces the black bar in the create world screen with a dark version of the background image",
   "authors": [
     "Benonardo"
   ],
